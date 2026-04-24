@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642953507370",
+    "project_id": "netto-f102a",
+    "storage_bucket": "netto-f102a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642953507370:android:f1acf4bf3891e5091f4953",
+        "android_client_info": {
+          "package_name": "com.xpera.netto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642953507370-h9n4f500dd0s9lmh4dep4o7pgasu8uf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUm00LKfpbA5P2-5RgwVyWD167Y8LaFj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642953507370-h9n4f500dd0s9lmh4dep4o7pgasu8uf9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "642953507370-og93qm21cg7s8c6sr1ug2tdisauic92m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xpera.netto",
+                "app_store_id": "6756826954"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
